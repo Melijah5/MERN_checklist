@@ -61,7 +61,7 @@
 				.env
 				node_modules/
 
-		npx create-react-app client
+		npx create-react-app client (trubleshoot => removing the ~/Users/.npmrc from the folder helped.)
 
 		cd client
 
